@@ -1,0 +1,5 @@
+In the first, we open the app. Then we select the plus bottton. After that we write project name and select ESP8266. Then create.
+-- Application will send token to email that we sign in. We will use this token in arduino. --
+We select the botton that in project again. And select button. Then we will push button. We will go to button setting. We go to output section.
+Select pin, We choose digital and gp16. Then OK. It finishes.
+When we want to run program. We will use the button pause to run program but we need to connect wi-fi in the first.
